@@ -1,6 +1,9 @@
 Docker image for bgpq3
 ======================
 
+.. |Docker pulls| image:: https://img.shields.io/docker/pulls/mirceaulinic/bgpq3.svg
+   :target: https://hub.docker.com/r/mirceaulinic/bgpq3
+
 The lazy way to use `bgpq3 <https://github.com/snar/bgpq3>`__ without building
 from source, when a package or port is not available on your operating system.
 
