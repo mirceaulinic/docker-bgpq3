@@ -1,6 +1,8 @@
 Docker image for bgpq3
 ======================
 
+|Docker pulls|
+
 .. |Docker pulls| image:: https://img.shields.io/docker/pulls/mirceaulinic/bgpq3.svg
    :target: https://hub.docker.com/r/mirceaulinic/bgpq3
 
